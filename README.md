@@ -1,8 +1,10 @@
-FUTURE_DS_02
+#FUTURE_DS_02
+
 Candidate Details
 Name: Bulusu Vvs Kedar Sharma
-CIN:FIT/OCT26/DS24036
 
+CIN:FIT/OCT26/DS24036
+#
 Customer Churn & Retention Analysis Dashboard
 Tools Used
 Power BI
